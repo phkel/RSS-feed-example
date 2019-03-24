@@ -1,4 +1,4 @@
-##Rakenduse käivitamiseks
+## Rakenduse käivitamiseks
 
 1. Config.php failis muuta andmebaasi ligipääsud.
 
